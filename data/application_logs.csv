@@ -1,0 +1,20 @@
+log_level,message_details
+Error,exception thrown by GetInputQueues
+Fatal,"*** Exception *** Msg: Exception thrown by BaseHostedQueueApp.InitializeTimeZone"
+Fatal,"*** Exception *** Msg: Exception thrown by BaseHostedQueueApp.OnGetListOfItems"
+Error,Call OnErrorDoAction 
+Fatal,"*** Exception *** Msg: Unhandle Exception"
+Verbose,Configuration for organization: '383b8f7f'
+Warning,Repricing process not supported for NDC PNRs. 
+Verbose,No element to be added.
+Info,Robot initialized successfully
+Info,Connection to database established
+Warning,Low memory condition detected
+Error,Failed to retrieve item from queue
+Fatal,"*** Exception *** Msg: System.OutOfMemoryException encountered during execution"
+Verbose,Cache cleared for session: 'a12b3c4d'
+Info,Heartbeat sent to monitoring service
+Error,"Unexpected token in JSON payload"
+Warning,License will expire in 5 days
+Fatal,"*** Exception *** Msg: NullReferenceException in processing module"
+Verbose,"Execution time for last run: 342ms"
